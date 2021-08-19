@@ -1,2 +1,2 @@
 # HTML, CSS practice
- Kakao Clone Version 2.0
+ Kakao Version 2.0
